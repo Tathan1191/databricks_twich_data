@@ -1,2 +1,5 @@
-# databricks_twich_data
+# databricks_twitch_data
 Notebook of Twich streaming in Databricks (Spark) 
+
+# About This:
+In process
